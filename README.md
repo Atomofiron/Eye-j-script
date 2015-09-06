@@ -1,1 +1,2 @@
 # Eye-j-script
+куку
