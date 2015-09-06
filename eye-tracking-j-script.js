@@ -1,3 +1,10 @@
+/*!
+ * Eye Tracking JavaScript
+ *
+ * Copyright (c) 2015 Yaroslav Nesterov
+ * Licensed under the MIT.
+ */
+
 // Добавление элементов на страницу:
 for (var i = 1; i<=getCfg("eyes"); i++) {
 	var Eye = document.getElementById("eye"+i);
