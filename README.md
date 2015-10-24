@@ -2,8 +2,8 @@
 Ява-скрипт, с помощью которого можно размещать на веб-страницах "глаза" со зрачками, следящими за курсором мыши
 
 # Установка
-Разместить на странице: один или несколько &lt;div id="eyeX">&lt;/div>, где X - это порядковый номер от 1, ссылку на  основной скрипт-файл &lt;script src="eye-traking-j-script.js" type="text/javascript">&lt;/script>, следующий скрипт с настройками и  настроить местоположение зрачка(ов) на веб-cтранице с помощью margin-*<br>
-
+Разместить на странице: один или несколько <i>&lt;div id="eyeX">&lt;/div></i>, где X - это порядковый номер от 1, ссылку на  основной скрипт-файл <i>&lt;script src="eye-traking.js" type="text/javascript">&lt;/script></i>, следующий скрипт с настройками и  настроить местоположение зрачка(ов) на веб-cтранице с помощью <i>margin-*<br></i>
+<i>
 function getCfg(s) {<br>
   switch (s) {<br>
     case "Hscope": return 50; // горизонтальный размах<br>
@@ -19,7 +19,7 @@ function getCfg(s) {<br>
     default: return 0;<br>
   }<br>
 }<br>
-
+</i>
 # Примеры
 С точками взгляда в каждом глазе - <a href="http://atomofiron.clan.su/Bender/bender.html" target="_blank">Bender</a><br>
 С общей(средней) точкой взгляда - <a href="http://atomofiron.clan.su/Anime/anime-demo.html" target="_blank">Anime</a>
