@@ -21,8 +21,8 @@ function getCfg(s) {<br>
 }<br>
 </i>
 # Примеры
-С точками взгляда в каждом глазе - <a href="http://atomofiron.clan.su/Bender/bender.html" target="_blank">Bender</a><br>
-С общей(средней) точкой взгляда - <a href="http://atomofiron.clan.su/Anime/anime-demo.html" target="_blank">Anime</a>
+С точками взгляда в каждом глазе - <a href="http://darkvk.3dn.ru/other/Bender/bender.html" target="_blank">Bender</a><br>
+С общей(средней) точкой взгляда - <a href="http://darkvk.3dn.ru/other/Anime/anime.html" target="_blank">Anime</a>
 
 # License
 The MIT License.
